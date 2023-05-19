@@ -1,0 +1,2 @@
+# CSharp---Aleatorios
+Estudos paralelos
