@@ -1,2 +1,2 @@
 # CSharp---Aleatorios
-Estudos paralelos
+Estudos paralelos para melhorar o dominio de algunas estruras em C#
