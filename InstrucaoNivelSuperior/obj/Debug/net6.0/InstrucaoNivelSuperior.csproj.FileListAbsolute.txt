@@ -1,0 +1,15 @@
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Aleatorios\InstrucaoNivelSuperior\bin\Debug\net6.0\InstrucaoNivelSuperior.exe
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Aleatorios\InstrucaoNivelSuperior\bin\Debug\net6.0\InstrucaoNivelSuperior.deps.json
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Aleatorios\InstrucaoNivelSuperior\bin\Debug\net6.0\InstrucaoNivelSuperior.runtimeconfig.json
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Aleatorios\InstrucaoNivelSuperior\bin\Debug\net6.0\InstrucaoNivelSuperior.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Aleatorios\InstrucaoNivelSuperior\bin\Debug\net6.0\InstrucaoNivelSuperior.pdb
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Aleatorios\InstrucaoNivelSuperior\obj\Debug\net6.0\InstrucaoNivelSuperior.csproj.AssemblyReference.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Aleatorios\InstrucaoNivelSuperior\obj\Debug\net6.0\InstrucaoNivelSuperior.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Aleatorios\InstrucaoNivelSuperior\obj\Debug\net6.0\InstrucaoNivelSuperior.AssemblyInfoInputs.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Aleatorios\InstrucaoNivelSuperior\obj\Debug\net6.0\InstrucaoNivelSuperior.AssemblyInfo.cs
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Aleatorios\InstrucaoNivelSuperior\obj\Debug\net6.0\InstrucaoNivelSuperior.csproj.CoreCompileInputs.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Aleatorios\InstrucaoNivelSuperior\obj\Debug\net6.0\InstrucaoNivelSuperior.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Aleatorios\InstrucaoNivelSuperior\obj\Debug\net6.0\refint\InstrucaoNivelSuperior.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Aleatorios\InstrucaoNivelSuperior\obj\Debug\net6.0\InstrucaoNivelSuperior.pdb
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Aleatorios\InstrucaoNivelSuperior\obj\Debug\net6.0\InstrucaoNivelSuperior.genruntimeconfig.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\repositorios\CSharp---Aleatorios\InstrucaoNivelSuperior\obj\Debug\net6.0\ref\InstrucaoNivelSuperior.dll
